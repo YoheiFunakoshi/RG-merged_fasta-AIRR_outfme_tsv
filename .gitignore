@@ -1,8 +1,10 @@
-result_AIRR_outfmat/*
-!result_AIRR_outfmat/.gitkeep
+result_AIRR_outfmat/
+*.igblast.airr.tsv
+*.airr_counts.tsv
+*.airr_counts.xlsx
+*.fasta
+*.fa
+*.fna
+*.fastq
+*.fastq.gz
 *.log
-*.pyc
-__pycache__/
-.tmp_github/
-config.json
-refdata/
